@@ -1,0 +1,14 @@
+﻿  s_face.cpp
+s_face.cpp(315): warning C4101: 'pan_position' : unreferenced local variable
+s_face.cpp(315): warning C4101: 'tilt_position' : unreferenced local variable
+s_face.cpp(358): warning C4101: 'pan_position' : unreferenced local variable
+s_face.cpp(358): warning C4101: 'tilt_position' : unreferenced local variable
+s_face.cpp(385): warning C4101: 'pan_position' : unreferenced local variable
+s_face.cpp(385): warning C4101: 'tilt_position' : unreferenced local variable
+s_face.cpp(427): warning C4101: 'pan_position' : unreferenced local variable
+s_face.cpp(427): warning C4101: 'tilt_position' : unreferenced local variable
+s_face.cpp(489): warning C4101: 'pan_position' : unreferenced local variable
+s_face.cpp(489): warning C4101: 'tilt_position' : unreferenced local variable
+  Generating code
+  Finished generating code
+  VLCTestDemo.vcxproj -> C:\Users\NJ\Desktop\VLCTestDemo\Release\VLCTestDemo.exe

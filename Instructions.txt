@@ -1,0 +1,15 @@
+<Webpage for vlc player library>
+* download version according to the system requirements
+http://download.videolan.org/pub/videolan/vlc/2.1.4/win64/
+
+
+change parameters within m_face.cpp to change from standard to high definition and vice versa.
+<standard def>
+char* url = "udp://@231.0.16.105:5001";		// udp address
+int w = 640;					// window width
+int h = 360;					// window height
+
+<high def>
+char* url = "udp://@231.0.16.101:5001";		// udp address
+int w = 1280;					// window width
+int h = 720;					// window height
